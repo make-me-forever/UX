@@ -1,0 +1,8 @@
+D:\code\git_code\UX\Nice\bin\Debug\Nice.exe.config
+D:\code\git_code\UX\Nice\obj\Debug\Nice.csproj.AssemblyReference.cache
+D:\code\git_code\UX\Nice\obj\Debug\Nice.Properties.Resources.resources
+D:\code\git_code\UX\Nice\obj\Debug\Nice.csproj.GenerateResource.cache
+D:\code\git_code\UX\Nice\obj\Debug\Nice.csproj.CoreCompileInputs.cache
+D:\code\git_code\UX\Nice\obj\Debug\Nice.exe
+D:\code\git_code\UX\Nice\obj\Debug\Nice.pdb
+D:\code\git_code\UX\Nice\obj\Debug\Nice.HomePage.resources

@@ -1,0 +1,8 @@
+D:\code\git_code\UX\Nice\obj\Release\Nice.csproj.AssemblyReference.cache
+D:\code\git_code\UX\Nice\obj\Release\Nice.HomePage.resources
+D:\code\git_code\UX\Nice\obj\Release\Nice.Properties.Resources.resources
+D:\code\git_code\UX\Nice\obj\Release\Nice.csproj.GenerateResource.cache
+D:\code\git_code\UX\Nice\obj\Release\Nice.csproj.CoreCompileInputs.cache
+D:\code\git_code\UX\Nice\bin\Release\Nice.exe.config
+D:\code\git_code\UX\Nice\obj\Release\Nice.exe
+D:\code\git_code\UX\Nice\obj\Release\Nice.pdb
